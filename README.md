@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Computer science @RTU 
 - 💞️ I’m looking to collaborate on Game AI
-- 📫 How to reach me on kkakhil@outlook.com
+- 📫 kkakhil@outlook.com
 
 <!---
 akhil-kk15/akhil-kk15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
