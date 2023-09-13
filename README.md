@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhil-kk15
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Computer science @RTU 
+- 👀 I’m interested in Game AI
+- 🌱 I’m currently learning Computer science @University of Latvia
 - 💞️ I’m looking to collaborate on Game AI
 - 📫 kkakhil2015@outlook.com
 
