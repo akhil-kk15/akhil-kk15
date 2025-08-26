@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game AI
 - 🌱 I’m currently learning Computer science @University of Latvia
 - 💞️ I’m looking to collaborate on Game AI
-- 📫 kkakhil2015@outlook.com
+
 
 <!---
 akhil-kk15/akhil-kk15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
