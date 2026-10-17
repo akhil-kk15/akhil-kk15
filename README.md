@@ -1,6 +1,6 @@
 # Akhil Kammalan Kandy
 
-**Computer Science student at the University of Latvia** with a focus on Game AI, low-level systems programming, and Natural Language Processing. I'm part of **Crimzenred Studios** and graduating soon, with plans to pursue a Master's in Computer Architecture.
+**Computer Science student at the University of Latvia** with a focus on Game AI, low-level systems programming, and Natural Language Processing. I'm graduating soon, with plans to pursue a Master's in Computer Architecture.
 
 [![GitHub](https://img.shields.io/badge/GitHub-akhil--kk15-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhil-kk15)
 
