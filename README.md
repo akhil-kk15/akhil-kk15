@@ -31,7 +31,7 @@
 
 ### Additional Research & Engineering
 
-- **Audio Compression Research** — Authored an academic paper analyzing algorithmic efficiency in digital audio signal processing, focusing on Discrete Cosine Transforms (DCT) and compression trade-offs.
+- **Audio Compression Research** — Authoring an academic paper analyzing algorithmic efficiency in digital audio signal processing, focusing on Discrete Cosine Transforms (DCT) and compression trade-offs.
 - **Machine Learning from Scratch** — Implemented core classification algorithms (such as k-Nearest Neighbors) in pure Python to benchmark mathematical fundamentals against `scikit-learn`.
 - **Customs Queue Simulation** — Engineered a C++ discrete-event simulation utilizing custom priority queues and specialized sorting structures.
 - **Hardware Prototyping** — Built an Arduino-based environmental gas detection system interfacing with MQ-series sensors via `arduino-cli`.
